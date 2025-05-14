@@ -1,4 +1,9 @@
-## Indicators
+## The detection and analysis phase of the lifecycle
+Challenges in the detection and analysis phase
+- Impossible to detect everything
+- High volumes of alerts (false positive)
+
+### Indicators
 
 - Indicators of Compromise: Observable evidence that suggests potential security incident.
 - Indicators of Attack: Series of events that suggest real time incident.
@@ -11,7 +16,13 @@ Higher on the IoC pyramid = harder for an attacker to work around any blocks.
 
 TTP = Tactics, techniques, and procedures.
 
-[![](files/pyramidofpain.png)](files/pyramidofpain.png)
+![](/files/pyramidofpain.png)
+
+## Analyze indicators of compromise with investigative tools
+- VirusTotal - free service to analyze suspicious files, domains, URLs and IP addresses.
+- Jotti malware scan (scan files)
+- Urlscan.io (scans and analyzes URLs)
+- MalwareBazaar (free malware samples)
 
 ## Documentation
 
