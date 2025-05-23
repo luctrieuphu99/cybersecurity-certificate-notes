@@ -33,7 +33,19 @@ TTP = Tactics, techniques, and procedures.
 3. Clarity
 
 ## Triage
+**Triage** the prioritzing of incidents according to their level of importance or urgency
+1. Receive and assess. (IDS)
+2. Assign priority (functional impact, information impact, recoverability)
+3. Collect and analyze (gather info from different sources to make informed decision)
 
-1. Receive and assess
-2. Assign priority
-3. Collect and analyze
+## Containment
+**Containment**: The act of limiting and preventing additional damage caused by an incident
+
+**Eradication**: The complete removal of the incident elements from all affected systems
+- e.g. perform vulnerability test, apply patches
+
+**Recovery**: The process of returning affected systems back to normal operations
+
+## Post-incident activity phase
+- **Post-incident activity phase**: The process of reviewing an incident to identify areas for improvement during incident handling
+- **Final report**: Documentation that provides a comprehensive review of an incident
