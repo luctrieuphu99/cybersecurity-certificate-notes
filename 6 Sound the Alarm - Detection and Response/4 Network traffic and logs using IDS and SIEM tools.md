@@ -1,5 +1,10 @@
 ## Logs
+### Log
+a record of events that occur within an organization's systems.
 
+### Log analysis
+The process of examining logs to identify events of interest
+  
 Types:
 
 - Network: Proxies, firewalls, etc
@@ -7,6 +12,13 @@ Types:
 - Application: Specific programs
 - Security: Security tools like IDS / IPS
 - Authentication logs: Login attempts
+
+### Log formats
+- Syslog (protocol, service, log format)
+- JSON (use "{}")
+- XML (use tag and "<>")
+- CSV (use comma)
+- CEF (Common Event Format)
 
 ## Detection systems
 
