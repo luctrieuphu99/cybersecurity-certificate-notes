@@ -5,8 +5,7 @@ a record of events that occur within an organization's systems.
 ### Log analysis
 The process of examining logs to identify events of interest
   
-Types:
-
+### Log Types:
 - Network: Proxies, firewalls, etc
 - System: OS
 - Application: Specific programs
